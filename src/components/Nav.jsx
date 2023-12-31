@@ -17,12 +17,12 @@ function Nav() {
             <li>
               <Link href="/posts">Posts</Link>
             </li>
-            <li>
+            {/* <li>
               <Link href="/todos">Todo-List</Link>
-            </li>
-            <li>
+            </li> */}
+            {/* <li>
               <Link href="/products">Product List</Link>
-            </li>
+            </li> */}
             <li>
               <Link href="/add-product">Add product</Link>
             </li>
